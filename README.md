@@ -21,7 +21,7 @@
 
 <img src="https://img.icons8.com/fluency/28/null/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/28/null/c-plus-plus-logo.png"/>
-<img src="![image](https://user-images.githubusercontent.com/99846498/224348383-d8f5fe94-db6c-458c-a8f9-a27bf2c9720c.png)"/>
+<img src="https://user-images.githubusercontent.com/99846498/224348383-d8f5fe94-db6c-458c-a8f9-a27bf2c9720c.png"/>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF714&width=435&lines=Please+stand+by...;I+will+go++get+my+coffe." alt="Typing SVG" /></a>
